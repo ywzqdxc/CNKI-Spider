@@ -1,0 +1,12 @@
+{
+    "chrome_driver_path": "C:/Program Files/Google/Chrome/Application/chromedriver.exe",
+    "chrome_binary_path": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "max_workers": 2,
+    "batch_size": 30,
+    "max_retries": 3,
+    "headless": false,
+    "debug": true,
+    "data_dir": "data",
+    "link_dir": "links",
+    "save_dir": "saves"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "移动边缘计算中基于深度强化学习的分布式卸载算法",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjGqJRCqojnT0thU174Bcq5jYR0TEatRQHu1-L5RIVxZITAmo-R8Icu8fU_ip3GNyeiowNLKQ4bLJ72w6GQKswOyePuU-GR4pk3gEsV4pg-_wDhgaCSiRJX5j0geL5m9tiMq-l-AsZShrJuT858ZAHrkiXvn4wn2To0t10BDF-jmVg==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "在移动边缘计算中，边缘客户端可以将自身的计算任务卸载到边缘节点上以降低自身的计算压力以及耗能。然而，当边缘节点接收到大量计算任务时会造成自身过高的负载，导致一些计算任务不能被及时处理而难以满足边缘客户端对低延迟的需求，在极端情况下部分任务甚至会被丢弃。在边缘节点负载动态不确定的环境下，大多数现有的计算卸载算法难以达到理想最优。针对这一问题，提出一种基于深度强化学习（DRL）的分布式任务卸载算法以最小化系统的长期成本，使每个边缘客户端可以在不知道边缘节点负载和其他客户端卸载决策的情况下做出独立的卸载决策。为了确保对长期成本的估计，所提算法结合决斗式深度Q网络（Dueling DQN）和双深度Q网络（Double DQN）技术提升训练效率和策略的稳定性。仿真结果表明，所提算法有效地降低了边缘客户端的平均时延和能耗，相对于现有的分布式DRL算法（DDTO和DDLO）提高了10%。"
+  },
+  {
+    "title": "一类三维装箱问题的多智能体分层强化学习求解算法研究",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjGqJRCqojnT0thU174Bcq5jYR0TEatRQHsdKx7uSsAgv0ovByrjVyRbfImj8r0ywG3I7HOTqRUOHYOZfNrDgvACQB3T8OrJI-ssfbyN3ofJACoFsPcMPYQ8cjYXcPCrBv9Y1y_ewu5uKUZrCrsowDfTfGgWT8on2DjR5ZI9ZNjrqg==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "针对半在线场景下的多箱体三维装箱问题(3D-BPP),为了提高装箱决策效率和装箱空间利用率,本文提出一种多智能体分层强化学习算法.该算法采用多智能体马尔可夫决策过程(MAMDP)对问题进行建模,通过三个完全合作的智能体分别负责货物选择、箱子选择和摆放位置规划,并引入值分布学习方法以增强算法的稳定性和收敛性.实验结果表明,该算法在不同环境配置下均表现出良好的性能,空间利用率和装入货物数量显著提升,且在多箱体和多货物选择场景下展现出较强的泛化能力.与传统的启发式算法相比,该算法在动态决策和适应性方面具有明显优势,尤其在处理未知分布的货物尺寸时表现出较强的鲁棒性."
+  },
+  {
+    "title": "基于深度强化学习的基站协作与服务缓存研究",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjHvhLq7hXEvtK1K-4sGNoBK3BUWRUdBe1IAnsHOtnlsmEGPWu89s9EqmSmtjfHy9dDehexVZ5Cj34rKQKrkPdPCJQMf505DmSLtOqT8OYlCBpjCzqqaSwwF5aOlxrGv2Zn3bpEh8YJNBnk1IgIbUIavQk03HRvYTz-Hv0FcidREsw==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "边缘缓存技术通过就近存储内容，可以有效降低传输冗余和服务延迟，是移动边缘网络的关键技术之一。针对基站缓存容量受限的问题，协作式边缘缓存通过基站间资源共享可以有效提升存储利用率。为此，本文就移动边缘网络中基站协作与服务缓存的联合优化问题，提出一种融合李雅普诺夫优化与深度确定性策略梯度算法(deep deterministic policy gradient， DDPG)的高效动态决策算法。该算法将长期成本约束下的时延最小化问题转化为时隙级优化任务，通过DDPG处理高维非线性环境中的动态优化问题，实现对系统资源的高效调配。仿真结果表明，所提算法与其他算法相比在满足成本约束的同时，可以更有效地降低系统时延。"
+  },
+  {
+    "title": "基于含干扰数据的SAR图像域深度学习ISRJ抑制方法",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjHvhLq7hXEvtK1K-4sGNoBK3BUWRUdBe1KIGwcBoartRatblVrd4afzP7wlr7bU2yWW9Ho4PrHEl1ptPRrVGFFheUMZT0T5yd6b5OKI7jsmcOEOFyO-P5tdkQxIunlOVHQNTkT4peq6Vx-E175LST9Aj4ICSK1mc5GsNrBkgwGbwg==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "针对间歇采样转发干扰（interrupted sampling repeater jamming,ISRJ）严重影响合成孔径雷达图像可靠性的问题，提出一种采用含ISRJ图像对的复数域深度学习合成孔径雷达ISRJ抑制方法，以及复数域深度残差收缩U型网络（complex-valued deep residual shrinkage U-Net,CV-DRSUNet）。通过构建复数域残差收缩模块，挖掘目标场景与干扰信号在合成孔径雷达复数域图像中的表征方式，实现ISRJ抑制。同时，提出一种不依赖无干扰场景图像的训练策略，一定程度上解决场景中存在干扰时干净图像难以获取的问题，扩展了深度学习在干扰抑制中的应用。通过数学推导和多组实验，验证了所提训练策略与网络模型在ISRJ抑制方面的有效性，证明所提方法在实际应用中具有重要价值。"
+  },
+  {
+    "title": "基于异构联邦学习的自动调制分类研究",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjFAn-h7WtaUTnGtf1H3xkTtTDLjz-tWnCVucoDKxSPh4WJop6MkNPi5ur9RwJg4Zkvu-O7e9v3srPAWnoDhITsA3_z6vDeij9xI3VbsdK8EqTu6pgy_-jmGkqgKzzfQ6Bt6iNhELKN3orG_Ctt73UU1OIEcZgbY94-J5RhpRpkBnQ==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "自动调制分类（Automatic Modulation Classification，AMC）是发展无线电监测过程中不可缺少的技术，可以根据接收到的无线电信号自动识别信号的调制方式。在无线电监测的分布式计算中，面对边缘设备的数据隐私和数据分布不均匀的情况，提出了一种基于联邦学习（Federated Learning，FL）和MCformer的AMC算法。搭建了基于MCformer网络的异构FL框架——FL-MCformer。MCformer网络主要包括卷积层和Transformer编码器层，可以捕捉信号的局部特征和全局关系，适合处理更为复杂的无线电信号。由于现实的无线电监测场景中采集到的信号可能存在信号丢失、遮挡以及数据量庞大等情况，提出了对IQ信号样本进行旋转、翻转以及随机擦除的数据增强方法，在增加信号样本多样性的同时，提高FL-MCformer的分类性能。针对数据异质性问题，使用FedProx算法进行优化。仿真实验表明，该方法在RML2016.10A数据集中的分类准确率可达84.80%。相较于其他方法，该方法在模型复杂度和通信开销方面具有明显优势，展现了更为稳定的收敛性，具有广泛的..."
+  },
+  {
+    "title": "基于AHA-LSTM的大断面黄土隧道围岩变形预测研究",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjFAn-h7WtaUTnGtf1H3xkTtTDLjz-tWnCVoMe90zFiTKl1dFf1yRL_fhlkFsoXcmqRItoJ-OLPvpiyeVDqlR0S7CHtnONhduyxA4zvqGzhOTLlYl7hEhGIEb4L7LKsLPGYSkPK1Z6ahO9mvr5O2VWJ_b9ZsSHUV0iMhXNBwDF7sOQ==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "传统的大断面黄土隧道围岩变形预测依赖于拟合监控量测数据，这一过程费时费力，数据波动较大的情况下又会导致预测精度降低。深度学习算法可以显著提高黄土隧道围岩变形监测效率及预测精度，同时降低人工成本。本文基于长短期记忆网络（Long Short-Term Memory， LSTM）模型，采用人工蜂鸟算法（Artificial Hummingbird Algorithm， AHA）实现LSTM模型的超参数寻优，构建AHA-LSTM模型计算流程框架。以邵家堂隧道工程为例，对围岩大变形段进行现场实测，得到拱顶沉降和拱脚收敛的监测数据，代入AHA-LSTM模型进行计算，并与传统机器学习算法进行对比分析。结果表明：AHA-LSTM模型平均R2为0.9983、MAE为0.5802、RMSE为0.7323、MAPE为1.8539%，相对误差控制在-4.0%～4.0%，在对比模型中表现最优；工程实际验证表明R2平均值为0.9927，MAPE平均为4.2770%，实现了对黄土隧道围岩变形的准确预测。本文提出的预测方法为将深度学习中的LSTM预测方法引入隧道建设并促进..."
+  },
+  {
+    "title": "基于SSCE-UNet的露天矿井眼窥视图像增强方法及应用",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjGl9SFmMA2OdUc46bzlCsl8Q8tb_vZP8D2d-TdXSVwY56OX36pXGpX0f49wxIExWRcZ8LyRwsUFgTo7mjEfI573ceyJi0QTpFhYlG96MdXJ9YG0Pt1jI8S2QEff4q1H_6Abid_pxYq3rYnZWDjJXMsF_PLuP-Vm5IhrCJnAymyP4Q==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "针对露天矿井眼窥视图像存在的低照度、低对比度及细节模糊等问题，以及现有深度学习模型泛化能力弱、参数量大、难以部署的局限性，本文提出一种基于MIMO-UNet的轻量化增强网络SSCE-UNet。该模型在保持高效推理的同时，显著提升了跨场景泛化能力。首先在跳跃连接部分引入改进的非对称多特征融合模块（AFF＿EMA with SCConv，AES），该模块融合指数移动平均注意力机制（Exponential Moving Average，EMA），增强特征判别能力，并通过多尺度特征融合构建更完整的图像表示。然后为抑制冗余信息，将传统卷积替换为空间与通道重建卷积（spatial and channel reconstruction convolution，SSConv），有效提升特征质量。最后在SCM模块中引入多头自注意力机制（Multi-Head Self-Attention，MSA），使模型能够自适应聚焦于图像中的关键区域，增强重要特征的表达能力。在LOLv1数据集上训练后，模型在LOLv1、LOLv2、ExDark和真实井眼图像上进行了全面测试。实验结果表明，所提方法在客观评价指标上显著优..."
+  },
+  {
+    "title": "基于深度学习的航天器间接单目位姿估计方法",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjGl9SFmMA2OdUc46bzlCsl8Q8tb_vZP8D23FTxLFyKetfaClFbYgVMHBCr2EO67l-fZqMpmSh5d_JFn42SWBEBBJKfDMpL3lx7zGPsO8U2KOyeDGZfQFT2aTYirIcpFGslVL_vYi-V5SMZQtzQi67qizhxYUXlfKiaitD3-ROh78Q==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "非合作目标单目测量是未来在轨服务任务发展的关键技术之一，为此本文提出一种快速、鲁棒且精确的间接位姿估计网络。首先通过数据驱动来回归2D关键点，继而引入几何投影约束的EPnP算法解算相对位姿。为解决在轨标注数据稀缺问题，基于虚幻引擎构建高保真航天器在轨仿真数据集，名为HEDE数据集。实现了从三维模型导入、光照环境配置到姿态标注的全流程自动化系统。基于HEDE数据集的对比实验表明，以ShuffleNetv2为骨干的间接位姿估计方法在姿态估计误差（3.90°）与位置误差（0.11m）上均优于SPN与UrsoNet基准方法，且在GPU与CPU平台下分别达到37.00帧/s和28.60帧/s 的实时推理性能。"
+  },
+  {
+    "title": "Linux环境中容器异常检测综述",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjEwzrUiAtD-URQZb4RTn8MgCuRbCaYVMxAlYG6Qb923q9bGFMbEOqTkLiwjEXdfM9OM91yOkKiM7Rhle3RX-4jiAF45U_o7Rs8XKxNTrptRqLVCi9klLTfmU4I6XvidNhRluaVLD5KUQXxcNyDhsoh3EHdBotDKAlw10mcC7iQXXg==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "容器技术因其轻量化、高性能和良好的扩展性，广泛应用于云计算和边缘计算中。然而，复杂而动态的容器运行环境在Linux平台下引发了资源滥用、权限提升和容器逃逸等异常检测挑战，对系统安全与性能构成威胁。高效的异常检测技术需同时满足实时性、低开销、多样性和高精度等需求。本文围绕Linux 内核机制对容器异常检测技术进行了系统梳理。首先，理论性分析了容器运行时的资源分配逻辑与系统调用行为模式；其次，从资源消耗与系统调用两个关键特征出发，归纳了基于规则与基于学习的检测方法；最后探讨了容器异常检测未来潜在方向。"
+  },
+  {
+    "title": "基于深度学习铝合金压铸件表面缺陷检测方法",
+    "link": "https://kns.cnki.net/kcms2/article/abstract?v=BVV9sVd_tjEwzrUiAtD-URQZb4RTn8MgCuRbCaYVMxApKTSa9jfRgHdz9QfLqBFX2GB7ljdym0Eoc-6f2tXOLvqYP_P1yHqZ_4JHYn8X6ORlGB-4MpU60CBazbURwWqG3bCPJc75brI1XglMLAUlxZqz4oSk0eae7Ikrcms6wdq-tqGFWDvusg==&uniplatform=NZKPT&language=CHS",
+    "year": "2025",
+    "abstract": "基于深度学习的自构建多尺度空间语义融合网络模型，对铝合金表面自建缺陷数据集进行目标检测训练与验证，使模型的识别性能显著提升，能够满足铝合金表面缺陷检测系统对实时性和准确性的双重要求。实验结果显示，在两个自建实验数据集中，所提方法的mAP@50指标分别提升了6.1%和6.4%，mAP@50:95指标分别提升了2.7%和3.5%，这表明该方法在铝合金表面缺陷检测精度上更具优势；相较于通用的YOLOv11n模型，新构建的模型参数量和计算量分别减少了0.5M和2.1GFlops，表明其在铝合金表面缺陷检测效率方面有明显提升。新模型构建不仅在理论上为铝合金表面缺陷检测网络的优化提供了新思路，更在实践中为铝合金铸件表面缺陷检测提供了一种高效的解决方案。"
+  }
+]
