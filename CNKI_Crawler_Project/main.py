@@ -11,7 +11,6 @@ from PyQt5.QtCore import Qt
 from src.main_window import MainWindow
 
 # === 3. 最后导入主题库 ===
-# 如果没有安装，做一个假的 apply_stylesheet 防止报错
 try:
     from qt_material import apply_stylesheet
 except ImportError:
