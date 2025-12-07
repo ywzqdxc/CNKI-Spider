@@ -17,7 +17,7 @@ CHROME_DRIVER_PATH = r'C:\Program Files\Google\Chrome\Application\chromedriver.e
 
 # 常用期刊 ISSN 预设
 PRESET_ISSNS = {
-    "水利学报": "0577-9154",
+    "水利学报": " 0559-9350",
     "软件学报": "1000-9825",
     "计算机学报": "0254-4164",
     "土木工程学报": "1000-131X",
